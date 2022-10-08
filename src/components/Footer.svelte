@@ -1,9 +1,10 @@
 <script>
-
+  const creator = '@DragonZSG';
+  const copyrightDate = 2022;
 </script>
 
 <footer>
-  Created by @DragonZSG
+  Copyright by {creator} {copyrightDate}
 </footer>
 
 <style>
