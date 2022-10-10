@@ -6,6 +6,7 @@ import Footer from './Footer.svelte';
 <main>
   <h1>Hello World!</h1>
   <List />
+  <List />
 </main>
 <Footer />
 
