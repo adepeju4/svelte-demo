@@ -8,7 +8,7 @@ import Footer from './Footer.svelte';
   <List />
   <List />
 </main>
-<Footer />
+<Footer creator = 'DragonZSG' copyrightDate = 2022 />
 
 <style>
   * {

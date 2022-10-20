@@ -4,10 +4,10 @@
 
 
 <div>
-  <h3>
+  <h2>
     This is a test
-    <DeepTest />
-  </h3>
+  </h2>
+  <DeepTest />
   
 </div>
 

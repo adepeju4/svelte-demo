@@ -1,6 +1,6 @@
 <script>
-  const creator = '@DragonZSG';
-  const copyrightDate = 2022;
+  export let creator;
+  export let copyrightDate;
 </script>
 
 <footer>
