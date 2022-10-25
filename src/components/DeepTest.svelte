@@ -1,5 +1,5 @@
 <script>
-  
+  export let num;
 </script>
 
 
@@ -7,6 +7,9 @@
   <h3>
     This is a deeper test
   </h3>
+  <p>
+    Here is the same number: {num};
+  </p>
   
 </div>
 
